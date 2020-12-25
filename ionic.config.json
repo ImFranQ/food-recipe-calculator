@@ -1,0 +1,7 @@
+{
+  "name": "recetitas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
