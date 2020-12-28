@@ -1,0 +1,24 @@
+.uppercase{
+  text-transform: uppercase;
+}
+
+.w100{
+  width: 100%;
+}
+
+.home-item-icon{
+  font-size: 60px;
+}
+
+.grow1{
+  flex-grow: 1;
+}
+
+ion-list-header.recipeMaterialTitle{
+  padding-left: 0px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color: #d7d8da;
+  min-height: 30px
+}

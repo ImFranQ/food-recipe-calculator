@@ -1,0 +1,31 @@
+.materialsList .materialsListItem{
+  margin-bottom: 15px;
+}
+
+.materialsList .materialsListItem:last-child{
+  margin-bottom: 0px;
+}
+
+.materialsList .title{
+  font-size: 1.2rem;
+}
+
+.materialsList .details{
+  margin: 0; padding: 0;
+  display: flex;
+}
+
+.materialsList .details li{
+  margin-right: 20px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.materialsList .details li:last-child{
+  margin-right: 0;
+}
+
+.materialsList .details li .icon{
+  margin-right: 5px;
+}
